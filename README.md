@@ -21,7 +21,7 @@ An office 365 product key is a 25-character code used to activate and verify you
 
 ## Where to enter your Office product key?
 
-**_After you purchase 25 digit Microsoft Office 365 product key, then follow below steps and know where to enter the key;
+**_After you purchase 25 digit Microsoft Office 365 product key, then follow below steps and know where to enter the key;_**
 
 1. Visit [Microsoft365.com/setup](https://microsoft365-comsetup.github.io/) and sign-in to MS 365 account.
 2. Type the keycode correctly. Follow prompts to redeem the key. 
